@@ -1,0 +1,38 @@
+/* font-family: 'Cabin', sans-serif;
+font-family: 'Kufam', cursive;
+font-family: 'Lobster', cursive; */
+
+body {
+    background: url(../img/piramide.jpg) left / cover no-repeat;
+    color: white;
+    /* text-align: center; */
+}
+section {
+    margin: 0 0 50px 30px;
+}
+h1 {
+    font-size: 3rem;
+    font-family: 'Cabin', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 3rem;
+    font-family: 'Cabin', sans-serif;
+}
+
+figure {
+    margin: 0;
+    position: relative;
+    border-bottom: 1px dotted white;
+}
+figcaption {
+    display: inline-block;
+    margin: 8vh 5vh;
+    position: absolute;
+    font-family: 'Kufam', cursive;
+    left: 280px;
+    font-size: 1rem;
+}
+
+
